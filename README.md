@@ -3,7 +3,7 @@ Tela de login responsiva desenvolvida com HTML e CSS utilizando Mobile First e M
 
 # Acesse o site
 
-https://cassioribroh.github.io/projeto-bio/
+https://cassioribroh.github.io/Projeto-Login/
 
 ## 🚀 Melhorias futuras
 
